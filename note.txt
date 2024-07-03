@@ -1,0 +1,51 @@
+Tech Class 
+
+
+
+
+ create a React app 
+ vite, npm create vite@latest mealproject -- -- template React
+
+ install some package
+ bootstrap, react-bootstrap 
+ react-loader-spinner
+ react-player
+ react-router-dom ---------because we are working with a multiple page appliction 
+
+ create a basic folder structure
+ compnent 
+ page 
+ hook--- where we do costume hook
+
+
+ change the default of the browser
+ CLEAR UP UR SCR
+ index.html- change title
+clean app.css
+index.css
+clean app.jsx
+return a <div> in app.jsx 
+
+install package 
+create the basic folder
+
+
+basic template ------->
+COMPONENTS---create header component - Footer - Search - Mealist
+comfirm if your package are install correctly on package-lock-json ----- check dependencies**
+PAGE---- create Homepage, About, SingleMEAL, Errorpage 
+
+set up our basic React Router 
+import BrowserRouter as Router, Routes, Route from react-router-dom
+
+set up template 
+
+set up bootstrap and react bootstrap
+
+import react bootstrap in main.jsx -- import 'bootstrap/dist/css/bootstrap.min.css';
+
+context  appliction
+creating the context 
+initializing it 
+setting up a component for it 
+wraping the Application with ContextProvider 
